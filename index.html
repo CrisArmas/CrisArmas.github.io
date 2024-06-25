@@ -19,12 +19,10 @@
             </ul>
         </nav>
     </header>
-
     <section id="about">
         <h2>À propos</h2>
         <p>Bienvenue sur notre site vitrine ! Nous sommes une entreprise dédiée à...</p>
     </section>
-
     <section id="services">
         <h2>Nos Services</h2>
         <ul>
@@ -33,7 +31,6 @@
             <li>Service 3</li>
         </ul>
     </section>
-
     <section id="portfolio">
         <h2>Portfolio</h2>
         <div>
@@ -42,7 +39,6 @@
             <img src="image3.jpg" alt="Projet 3" />
         </div>
     </section>
-
     <section id="contact">
         <h2>Contactez-nous</h2>
         <form>
